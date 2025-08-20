@@ -1,0 +1,11 @@
+.kgItem{
+    color:red;
+    background-color:bisque;
+}
+.kgSpan{
+    font-size:22px;
+    font-weight:bolder;
+}
+.Button{
+    float:right;
+}
